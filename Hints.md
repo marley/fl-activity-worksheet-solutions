@@ -1,6 +1,6 @@
 # FL Intro Web: Activity Workeet Solutions
 
-## Workshet 4 Hints
+## Workshet 6 Hints
 <details>
 <summary>hint 1</summary>
 <br>
@@ -16,7 +16,7 @@
   Use <a href="https://www.w3schools.com/js/js_string_templates.asp">string interpolation</a> to create an html element that includes the values from the book object
 </details>
 
-## Worksheet 6 Hints
+## Worksheet 9 Hints
 <details>
 <summary>hint 1</summary>
 <br>
